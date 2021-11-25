@@ -1,0 +1,43 @@
+Mostrar todos los datos de los empleados de nuestra tabla emp.
+
+Mostrar el apellido, oficio, salario, salario anual, con las dos extras para aquellos empleados con comisión mayor de 100000.
+
+Mostrar todos los datos de empleados ordenados por departamento y dentro de este por oficio para tener una visión jerárquica.
+
+Mostrar todas las salas para el hospital 45.
+
+Visualizar los empleados de la plantilla del turno de mañana que tengan un salario entre 200000 y 225000.
+
+Visualizar los empleados de la tabla emp que no se dieron de alta entre el 01/01/80 y el 12/12/82.
+
+Mostrar los nombres de los departamentos situados en Madrid o en Barcelona.
+
+Mostrar aquellos empleados con fecha de alta posterior al 1 de Julio de 1985.
+
+Mostrar aquellos empleados cuyo apellido termine en ‘Z’ ordenados por departamento, y dentro de este por antigüedad.
+
+Mostrar que personal “No Interino” existe en cada sala de cada hospital, ordenado por hospital y sala.
+
+Justificar el resultado de la siguiente consulta SELECT APELLIDO DISTINCT DEPT_NO FROM EMP
+Indicar que ocurre y modificarla para que todo vaya bien.
+
+Indicar los distintos turnos de la plantilla del hospital, ordenados por turno y por apellido
+
+Mostrar todos los empleados cuyo apellido sea de 6 letras y no comience entre la A y la D.
+
+Mostrar todos los que empiecen por la A y cuya cuarta letra no esté comprendida entre A – G
+
+Encontrar el salario medio de los analistas, mostrando el número de los empleados con oficio analista.
+
+Encontrar el salario mas alto, mas bajo y la diferencia entre ambos de todos los empleados con oficio EMPLEADO.
+
+Visualizar el número de personas que realizan cada oficio en cada departamento.
+
+Buscar aquellos departamentos con cuatro o mas personas trabajando
+
+Calcular el salario medio, Diferencia, Máximo y Mínimo de cada oficio. Indicando el oficio y el número de empleados de cada oficio.
+
+Averiguar los últimos empleados que se dieron de alta en la empresa en cada uno de los oficios, ordenados por la fecha.
+
+Mostrar la suma total del salario que cobran los empleados de la plantilla para cada función y turno
+
